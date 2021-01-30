@@ -3,5 +3,6 @@ public class Hello {
 
         System.out.println("Hello");
         System.out.println("EU4 is doing great!");
+        //forgot to change commit message
     }
 }
